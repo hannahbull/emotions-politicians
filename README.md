@@ -7,6 +7,8 @@ I measure the depicted emotions of political leaders around the world using thei
 
 (I have yet to test the statistical significance of these preliminary results...) 
 
+![France leaders](https://github.com/hannahbull/emotions-politicians/blob/master/output/france_pols.png)
+
 ## Database of political parties and political orientations
 
 I obtain a list of political parties from http://www.parlgov.org/: 
